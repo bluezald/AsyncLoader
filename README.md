@@ -17,4 +17,10 @@ The purpose of the library is to abstract the downloading (images, pdf, zip, etc
 - Usage of cool animations and transitions
 - Adding "pull to refresh" is an advantage
 
+# Criteria
+1. Readability - Class and method names should clearly show their intent and responsibility.
+2. Maintainability - “SOLID” Principles and design pattern. MVC model
+3. Scalability - Your software should easily accommodate possible future requirement changes
+4. Testability - Please accompany your code with test classes. The app should be able to run on any device running iOS 10 and above. Please make sure the app can be compiled directly from XCode 10.
+
 
